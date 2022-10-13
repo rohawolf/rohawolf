@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+나는 봇이 아닙니다.
+
 <!--
 **rohawolf/rohawolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
